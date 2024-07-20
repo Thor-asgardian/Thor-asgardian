@@ -1,5 +1,9 @@
-- 👋 Hello @Thor-asgardian is who I am.
-- 👀 Writing and content creation are things that I am interested in.
-- 🌱 I am learning CSE right now. 
-- 💞️ I would like to work with you on content creation or backend
-- 📫 How to contact me on Instagram: @bhuvanr2022 and @thorasgardian2024
+👋 Hello! I'm @Thor-asgardian.
+
+👀 I have a keen interest in writing and content creation.
+
+🌱 Currently learning Computer Science and Engineering (CSE).
+
+💞️ I'm eager to collaborate on content creation or backend development projects.
+
+📫 Connect with me on Instagram: @bhuvanr2022 and @thorasgardian2024.
